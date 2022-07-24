@@ -11,5 +11,5 @@
    
     "start": "node app.js",
 
-  },
+  }
 }
